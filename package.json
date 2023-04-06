@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:9000",
-  "homepage": "http://rachellin.github.io/wildcat-roomie",
+  "homepage": "http://rachellin.github.io/wildcat-roomie-static",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
