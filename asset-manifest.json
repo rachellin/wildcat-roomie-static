@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/wildcat-roomie-static/static/css/main.c79e76b7.chunk.css",
+    "main.js": "/wildcat-roomie-static/static/js/main.076d1471.chunk.js",
+    "main.js.map": "/wildcat-roomie-static/static/js/main.076d1471.chunk.js.map",
+    "runtime-main.js": "/wildcat-roomie-static/static/js/runtime-main.c8fed5d1.js",
+    "runtime-main.js.map": "/wildcat-roomie-static/static/js/runtime-main.c8fed5d1.js.map",
+    "static/css/2.8a339c49.chunk.css": "/wildcat-roomie-static/static/css/2.8a339c49.chunk.css",
+    "static/js/2.4e2846b2.chunk.js": "/wildcat-roomie-static/static/js/2.4e2846b2.chunk.js",
+    "static/js/2.4e2846b2.chunk.js.map": "/wildcat-roomie-static/static/js/2.4e2846b2.chunk.js.map",
+    "static/js/3.f509ff55.chunk.js": "/wildcat-roomie-static/static/js/3.f509ff55.chunk.js",
+    "static/js/3.f509ff55.chunk.js.map": "/wildcat-roomie-static/static/js/3.f509ff55.chunk.js.map",
+    "index.html": "/wildcat-roomie-static/index.html",
+    "static/css/2.8a339c49.chunk.css.map": "/wildcat-roomie-static/static/css/2.8a339c49.chunk.css.map",
+    "static/css/main.c79e76b7.chunk.css.map": "/wildcat-roomie-static/static/css/main.c79e76b7.chunk.css.map",
+    "static/js/2.4e2846b2.chunk.js.LICENSE.txt": "/wildcat-roomie-static/static/js/2.4e2846b2.chunk.js.LICENSE.txt",
+    "static/media/remixicon.css": "/wildcat-roomie-static/static/media/remixicon.f2616f59.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8fed5d1.js",
+    "static/css/2.8a339c49.chunk.css",
+    "static/js/2.4e2846b2.chunk.js",
+    "static/css/main.c79e76b7.chunk.css",
+    "static/js/main.076d1471.chunk.js"
+  ]
+}
