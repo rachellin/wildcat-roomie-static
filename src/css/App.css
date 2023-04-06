@@ -1,0 +1,94 @@
+body {
+  background: #fafafa;
+  font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+  color: #7863AE;
+}
+
+a:hover {
+  color: #C7BBE3;
+}
+
+* {
+  box-sizing: border-box;
+  transition: 0.4s linear;
+}
+
+/*-- scrollbar --*/
+::-webkit-scrollbar-thumb:vertical {
+  background-color: #4D3A6F; /*slider color*/
+  height: 50px; 
+}
+::-webkit-scrollbar {
+  height: 0px;
+  width: 4px; 
+  background-color: transparent; /*scrollbar bg color*/
+}
+
+button {
+  outline: none;
+  border: none;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+button, h1, h2 {
+  font-family: "Karla", sans-serif;
+}
+
+/* form */
+input {
+  display: block;
+  outline: none;
+  border: 1px solid #eee;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 2rem;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+input[type=submit] {
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0 0 0;
+}
+
+input[type="text"]:focus, input[type="name"]:focus, input[type="email"]:focus, textarea:focus {
+  box-shadow: 0 0 0 4px rgba(21, 156, 228, 0.4); /* change color TODO */
+}
+
+input[type=submit]:hover {
+  cursor: pointer;
+}
+
+label {
+  margin: 0.5rem 1rem 0 1rem;
+  padding: 0.5rem 1rem 0 1rem;
+}
+
+.required:after {
+  content: '*';
+  color: red;
+}
+
+textarea {
+  border: 1px solid #eee;
+  outline: none;
+  font-size: 15px;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 1rem;
+  border-radius: 2rem;
+}
+
+
