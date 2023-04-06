@@ -37,7 +37,20 @@ let profile2 = {
     mbti: "infj",
     pronouns: "she/her"
   },
-  filters: ["2026", "female-identifying", "early bird", "Weinberg", "INFJ", "Mid-Atlantic", "south campus"],
+  filters: [
+    "Weinberg",
+    "Elder",
+    "Allison",
+    "Willard",
+    "Shepard",
+    "1838 Chicago",
+    "2026",
+    "female-identifying",
+    "night owl",
+    "ISTJ",
+    "West",
+    "south campus"
+  ],
   social: {
     instagram: "",
     phone: "9173921992", // or int? 
@@ -56,12 +69,25 @@ let profile3 = {
     looking: loremIpsum
   },
   basics: {
-    location: "New York",
+    location: "Singapore",
     major: "computer science",
-    mbti: "infj",
-    pronouns: "she/her"
+    mbti: "intp",
+    pronouns: "he/him"
   },
-  filters: ["2025", "female-identifying", "early bird", "Weinberg", "INFJ", "Mid-Atlantic", "south campus"],
+  filters: [
+    "McCormick",
+    "Lincoln",
+    "Slivka",
+    "Shepard",
+    "Willard",
+    "Ayers",
+    "2026",
+    "male-identifying",
+    "night owl",
+    "ENTJ",
+    "International",
+    "north campus"
+  ],
   social: {
     instagram: "",
     phone: "9173921992", // or int? 
