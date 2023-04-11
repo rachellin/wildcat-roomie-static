@@ -94,8 +94,116 @@ let profile3 = {
     snapchat: ""
   },
   isPosted: true,
+  roommate: false,
+  year: 2026
+}
+
+let profile4 = {
+  firstName: "Inej",
+  lastName: "Ghafa",
+  about: {
+    bio: loremIpsum,
+    looking: loremIpsum
+  },
+  basics: {
+    location: "Ravka",
+    major: "Social Policy",
+    mbti: "infj",
+    pronouns: "she/her"
+  },
+  filters: [
+    "SESP",
+    "Hobart House",
+    "Shepard",
+    "Willard",
+    "2025",
+    "female-identifying",
+    "night owl",
+    "INFJ",
+    "International",
+    "south campus"
+  ],
+  social: {
+    instagram: "",
+    phone: "9173921992", // or int? 
+    snapchat: ""
+  },
+  isPosted: true,
   roommate: true,
   year: 2025
+}
+
+let profile5 = {
+  firstName: "Kaz",
+  lastName: "Brekker",
+  about: {
+    bio: loremIpsum,
+    looking: loremIpsum
+  },
+  basics: {
+    location: "Ketterdam",
+    major: "Social Policy",
+    mbti: "intj",
+    pronouns: "he/him"
+  },
+  filters: [
+    "SESP",
+    "Lincoln",
+    "Shepard",
+    "Willard",
+    "2025",
+    "male-identifying",
+    "early bird",
+    "INTJ",
+    "International",
+    "south campus",
+    "north campus"
+  ],
+  social: {
+    instagram: "",
+    phone: "9173921992", // or int? 
+    snapchat: ""
+  },
+  isPosted: true,
+  roommate: true,
+  year: 2025
+}
+
+let profile6 = {
+  firstName: "Jesper",
+  lastName: "Fahey",
+  about: {
+    bio: loremIpsum,
+    looking: loremIpsum
+  },
+  basics: {
+    location: "Ketterdam",
+    major: "Chemistry, Theatre",
+    mbti: "esfp",
+    pronouns: "he/him"
+  },
+  filters: [
+    "Weinberg",
+    "School of Communication",
+    "Lincoln",
+    "Shepard",
+    "Slivka",
+    "Willard",
+    "2026",
+    "male-identifying",
+    "night owl",
+    "ESFP",
+    "south campus",
+    "north campus"
+  ],
+  social: {
+    instagram: "",
+    phone: "9173921992", // or int? 
+    snapchat: ""
+  },
+  isPosted: true,
+  roommate: false,
+  year: 2026
 }
 
 // let profile2 = {
@@ -148,4 +256,4 @@ let profile3 = {
 
 
 
-export const cardData = [profile1, profile2, profile3]
+export const cardData = [profile1, profile2, profile3, profile4, profile5, profile6]

@@ -245,9 +245,9 @@ export class ProfileContainer extends React.Component {
 
             <div style={{display: "flex"}}>
                 <input 
-                    type="checkbox" id="roommate"
+                    type="checkbox" id="roommate" style={{display: "none"}}
                     onChange={() => this.toggleRoommate()}/>
-                <label for="roommate">show only those looking for roommate</label>
+                <label for="roommate" style={{display: "none"}}>show only those looking for roommate</label>
             </div>
 
             {/* <StyledTabs>
